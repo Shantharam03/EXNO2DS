@@ -24,6 +24,10 @@ STEP 8: Use heatmap method of representation to show relationships between two v
 
 ## CODING AND OUTPUT
 ```
+Name : Shatharam M
+Register Number: 212224040307
+```
+```
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
